@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "175682208862",
+    "firebase_url": "https://namesofallah-dc438.firebaseio.com",
+    "project_id": "namesofallah-dc438",
+    "storage_bucket": "namesofallah-dc438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175682208862:android:11f760c6ba3f5a7e",
+        "android_client_info": {
+          "package_name": "com.vistasoft.namesallah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175682208862-h7d5es90guor4ppj1qgurgrpotv87u73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vistasoft.namesallah",
+            "certificate_hash": "fef6252b8c6ef9ed91bebe5a7ae62ecd0715119f"
+          }
+        },
+        {
+          "client_id": "175682208862-lr7jumtldd76k1ecqn906gf727qna3a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDilm6A5mo9uLmB_nXVm2Gx-7citeM11Zc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175682208862-lr7jumtldd76k1ecqn906gf727qna3a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
